@@ -1,1 +1,1 @@
-void func(void);
+void sensor_init(void);

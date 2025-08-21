@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "sensor.h"
 
-void func(void)
+void sensor_init(void)
 {
-
+    printf("Sensor init\r\n");
 }
